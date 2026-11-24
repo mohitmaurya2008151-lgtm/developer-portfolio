@@ -6,7 +6,7 @@ Updated: 2026-11-24
 - Profile: https://www.hackerrank.com/profile/mohitmaurya_355
 - Problems solved: 3 (Say Hello, Python If-Else, Arithmetic Operators)
 - Skill test: Python (Basic) - taken
-- Certificate: - Certificate: Earned | [Certificate PDF](https://github.com/mohitmaurya2008151-lgtm/cse103-lab-LAB3/blob/main/python_basic%20certificate%20%20me%20.pdf)
+- Certificate: Earned | [Certificate PDF](https://github.com/mohitmaurya2008151-lgtm/cse103-lab-LAB3/blob/main/python_basic%20certificate%20%20me%20.pdf)
 
 ## LeetCode
 - Profile: https://leetcode.com/u/mohitmaurya_3550/
